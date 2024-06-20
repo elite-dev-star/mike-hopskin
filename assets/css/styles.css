@@ -1475,14 +1475,14 @@ section.active {
     transform: translateY(-100%);
     display: flex;
   }
-  
+
   .owl-dot {
     display: block;
     justify-content: center;
     text-align: center;
     color: #fa5b0f;
   }
-  
+
   .owl-dot span {
     border: 3px solid #fa5b0f;
     margin: 5px;
@@ -1493,7 +1493,7 @@ section.active {
     background-color: transparent;
     transition: all .5s ease-in-out
   }
-  
+
   .owl-dot.active span {
     background-color: #fff;
     border-color: #fa5b0f;
@@ -1550,7 +1550,7 @@ section.active {
 /*********************  Fun Facts Service Close *******************/
 /*********************  About Section-page End *******************/
 
-/*********************  protfolio Section-page Start *******************/
+/*********************  portfolio Section-page Start *******************/
 
 .portfolio-menu {
     text-align: center;
@@ -1679,7 +1679,7 @@ ul.container {
 }
 
 
-/*********************  protfolio Section-page Close *******************/
+/*********************  portfolio Section-page Close *******************/
 
 /*********************  Bolg Section-page Start *******************/
 
