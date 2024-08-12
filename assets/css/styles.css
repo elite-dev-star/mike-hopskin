@@ -2113,3 +2113,17 @@ ul.container {
 
 /****************************************  Key Frames Close  **************************************/
 
+
+pre {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    overflow-x: auto !important;
+    padding: 10px;
+    border-radius: 8px;
+    background: transparent;
+    border: 1px solid #303740;
+}
+
+pre code {
+    color: white;
+}
